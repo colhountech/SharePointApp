@@ -2,6 +2,7 @@
 # The Basics
 
 Configuring an application in Azure AD
+
 Below steps will help you create and configure an application in Azure Active Directory:
 
 * Go to Azure AD Portal via https://aad.portal.azure.com
